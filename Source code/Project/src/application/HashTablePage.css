@@ -1,0 +1,311 @@
+#myTextField {
+	-fx-background-color: linear-gradient(#81FBB8, #28C76F);
+	-fx-pref-height: 45;
+	-fx-pref-width: 80;
+	-fx-border-color: none;
+	-fx-font-size: 20;	
+	-fx-text-fill: white;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+	-fx-alignment: center ;
+}
+
+#buttonAddHash {
+	-fx-background-color: linear-gradient(#81FBB8, #28C76F);
+	-fx-pref-height: 44;
+	-fx-pref-width: 160;
+	-fx-border-color: none;
+	-fx-font-size: 30;
+	-fx-text-fill: #354960;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+}
+
+#buttonAddHash:hover {
+	-fx-background-color: #354960;
+	-fx-text-fill: linear-gradient(#81FBB8, #28C76F);
+}
+
+#buttonRemoveHash {
+	-fx-background-color: linear-gradient(#81FBB8, #28C76F);
+	-fx-pref-height: 44;
+	-fx-pref-width: 160;
+	-fx-border-color: none;
+	-fx-font-size: 30;
+	-fx-text-fill: #354960;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+}
+
+#buttonRemoveHash:hover {
+	-fx-background-color: #354960;
+	-fx-text-fill: linear-gradient(#81FBB8, #28C76F);
+}
+
+#buttonDeleteHash {
+	-fx-background-color: linear-gradient(#81FBB8, #28C76F);
+	-fx-pref-height: 44;
+	-fx-pref-width: 160;
+	-fx-border-color: none;
+	-fx-font-size: 30;
+	-fx-text-fill: #354960;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+}
+
+#buttonDeleteHash:hover {
+	-fx-background-color: #354960;
+	-fx-text-fill: linear-gradient(#81FBB8, #28C76F);
+}
+
+#buttonBackHash {
+	-fx-background-color: linear-gradient(#81FBB8, #28C76F);
+	-fx-pref-height: 65;
+	-fx-pref-width: 184;
+	-fx-border-color: none;
+	-fx-font-size: 30;
+	-fx-text-fill: #354960;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+}
+
+#buttonBackHash:hover {
+	-fx-background-color: #354960;
+	-fx-text-fill: linear-gradient(#81FBB8, #28C76F);
+}
+
+#button1 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button2 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button3 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button4 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button5 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button6 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button7 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button8 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button9 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button10 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button11 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button12 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button13 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button14 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button15 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button16 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button17 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button18 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button19 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#button20 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 140;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#label1 {
+	-fx-font-size: 25;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;		
+}
+
+#label2 {
+	-fx-font-size: 25;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;		
+}
+
+#label3 {
+	-fx-font-size: 25;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;		
+}
+
+#label4 {
+	-fx-font-size: 25;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;		
+}
+
+#label5 {
+	-fx-font-size: 25;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;			
+}
+
+#myKey {
+	-fx-font-size: 35;	
+	-fx-text-fill: #81FBB8;	
+	-fx-font-weight: bold;	
+}

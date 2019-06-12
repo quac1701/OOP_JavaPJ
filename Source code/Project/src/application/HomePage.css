@@ -1,0 +1,47 @@
+#buttonQueue {
+	-fx-background-color: linear-gradient(#79F1A4, #0E5CAD);
+	-fx-pref-height: 67;
+	-fx-pref-width: 200;
+	-fx-border-color: none;
+	-fx-font-size: 30;
+	-fx-text-fill: #354960;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+}
+
+#buttonQueue:hover {
+	-fx-background-color: #354960;
+	-fx-text-fill: linear-gradient(#79F1A4, #0E5CAD);
+}
+
+#buttonArray {
+	-fx-background-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-pref-height: 67;
+	-fx-pref-width: 200;
+	-fx-border-color: none;
+	-fx-font-size: 30;
+	-fx-text-fill: #354960;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+}
+
+#buttonArray:hover {
+	-fx-background-color: #354960;
+	-fx-text-fill: linear-gradient(#A0FE65, #FA016D);
+}
+
+#buttonHash {
+	-fx-background-color: linear-gradient(#81FBB8, #28C76F);
+	-fx-pref-height: 67;
+	-fx-pref-width: 200;
+	-fx-border-color: none;
+	-fx-font-size: 30;
+	-fx-text-fill: #354960;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+}
+
+#buttonHash:hover {
+	-fx-background-color: #354960;
+	-fx-text-fill: linear-gradient(#81FBB8, #28C76F);
+}

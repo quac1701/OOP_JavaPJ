@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="pane"
+	xmlns="http://javafx.com/javafx/8.0.201"
+	xmlns:fx="http://javafx.com/fxml/1"
+	fx:controller="application.ControllerArrayList"
+	stylesheets="@ArrayListPage.css">
+	<children>
+		<AnchorPane prefHeight="753.0" prefWidth="1144.0">
+			<children>
+				<ImageView fitHeight="901.0" fitWidth="1243.0">
+					<image>
+						<Image url="@1.jpg" />
+					</image>
+				</ImageView>
+
+				<TextField fx:id="valueAdd" layoutX="177" layoutY="116"
+					onAction="#addItem">
+				</TextField>
+
+				<TextField fx:id="indexInsert" layoutX="441" layoutY="116">
+				</TextField>
+
+				<TextField fx:id="valueInsert" layoutX="561" layoutY="116"
+					onAction="#insertItem">
+				</TextField>
+
+				<TextField fx:id="indexDelete" layoutX="825" layoutY="116"
+					onAction="#deleteItem">
+				</TextField>
+
+				<Button fx:id="buttonAdd" layoutX="112" layoutY="183"
+					mnemonicParsing="false" onAction="#addItem" text="Add Item">
+				</Button>
+
+				<Button fx:id="buttonInsert" layoutX="436" layoutY="183"
+					mnemonicParsing="false" onAction="#insertItem" text="Insert Item">
+				</Button>
+
+				<Button fx:id="buttonDelete" layoutX="760" layoutY="183"
+					mnemonicParsing="false" onAction="#deleteItem" text="Delete Item">
+				</Button>
+
+				<Button fx:id="buttonBackArray" layoutX="850" layoutY="585"
+					mnemonicParsing="false" onAction="#back" text="Back">
+				</Button>
+
+				<Label layoutX="195" layoutY="85" text="Value" style = "-fx-text-fill:
+					#FA016D; -fx-font-size: 18; -fx-font-weight: bold;">
+				</Label>
+
+				<Label layoutX="457" layoutY="85" text="Index" style = "-fx-text-fill:
+					#FA016D; -fx-font-size: 18; -fx-font-weight: bold;">
+				</Label>
+
+				<Label layoutX="577" layoutY="85" text="Value" style = "-fx-text-fill:
+					#FA016D; -fx-font-size: 18; -fx-font-weight: bold;">
+				</Label>
+
+				<Label layoutX="842" layoutY="85" text="Index" style = "-fx-text-fill:
+					#FA016D; -fx-font-size: 18; -fx-font-weight: bold;">
+				</Label>
+
+				<Button fx:id="array1" layoutX="63" layoutY="384"
+					mnemonicParsing="false" visible="false">
+				</Button>
+
+				<Button fx:id="array2" layoutX="128" layoutY="384.0"
+					mnemonicParsing="false" visible="false">
+				</Button>
+
+				<Button fx:id="array3" layoutX="193" layoutY="384.0"
+					mnemonicParsing="false" visible="false">
+				</Button>
+
+				<Button fx:id="array4" layoutX="258" layoutY="384.0"
+					mnemonicParsing="false" visible="false">
+				</Button>
+
+				<Button fx:id="array5" layoutX="323" layoutY="384.0"
+					mnemonicParsing="false" prefHeight="63.0" visible="false">
+				</Button>
+
+				<Button fx:id="array6" layoutX="388" layoutY="384.0"
+					mnemonicParsing="false" visible="false">
+				</Button>
+
+				<Button fx:id="array7" layoutX="453" layoutY="384.0"
+					mnemonicParsing="false" visible="false">
+				</Button>
+
+				<Button fx:id="array8" layoutX="518" layoutY="384.0"
+					mnemonicParsing="false" visible="false">
+				</Button>
+
+				<Button fx:id="array9" layoutX="583" layoutY="384.0"
+					mnemonicParsing="false" visible="false">
+				</Button>
+
+				<Button fx:id="array10" layoutX="648" layoutY="384.0"
+					mnemonicParsing="false" visible="false">
+				</Button>
+
+				<Button fx:id="array11" layoutX="713" layoutY="384.0"
+					mnemonicParsing="false" visible="false">
+				</Button>
+
+				<Button fx:id="array12" layoutX="778" layoutY="384.0"
+					mnemonicParsing="false" visible="false">
+				</Button>
+
+				<Button fx:id="array13" layoutX="843" layoutY="384.0"
+					mnemonicParsing="false" visible="false">
+				</Button>
+
+				<Button fx:id="array14" layoutX="908" layoutY="384.0"
+					mnemonicParsing="false" visible="false">
+				</Button>
+
+				<Label fx:id="l1" layoutX="91" layoutY="457" text="0"
+					visible="false">
+				</Label>
+
+				<Label fx:id="l2" layoutX="156" layoutY="457" text="1"
+					visible="false">
+				</Label>
+
+				<Label fx:id="l3" layoutX="221" layoutY="457" text="2"
+					visible="false">
+				</Label>
+
+				<Label fx:id="l4" layoutX="286" layoutY="457" text="3"
+					visible="false">
+				</Label>
+
+				<Label fx:id="l5" layoutX="351" layoutY="457" text="4"
+					visible="false">
+				</Label>
+
+				<Label fx:id="l6" layoutX="416" layoutY="457" text="5"
+					visible="false">
+				</Label>
+
+				<Label fx:id="l7" layoutX="481" layoutY="457" text="6"
+					visible="false">
+				</Label>
+
+				<Label fx:id="l8" layoutX="546" layoutY="457" text="7"
+					visible="false">
+				</Label>
+
+				<Label fx:id="l9" layoutX="611" layoutY="457" text="8"
+					visible="false">
+				</Label>
+
+				<Label fx:id="l10" layoutX="676" layoutY="457" text="9"
+					visible="false">
+				</Label>
+
+				<Label fx:id="l11" layoutX="741" layoutY="457" text="10"
+					visible="false">
+				</Label>
+
+				<Label fx:id="l12" layoutX="806" layoutY="457" text="11"
+					visible="false">
+				</Label>
+
+				<Label fx:id="l13" layoutX="871" layoutY="457" text="12"
+					visible="false">
+				</Label>
+
+				<Label fx:id="l14" layoutX="936" layoutY="457" text="13"
+					visible="false">
+				</Label>
+			</children>
+		</AnchorPane>
+	</children>
+</AnchorPane>

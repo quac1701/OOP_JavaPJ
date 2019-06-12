@@ -1,0 +1,179 @@
+#input {
+	-fx-background-color: linear-gradient(#79F1A4, #0E5CAD);
+	-fx-pref-height: 45;
+	-fx-pref-width: 80;
+	-fx-border-color: none;
+	-fx-font-size: 20;	
+	-fx-text-fill: white;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+	-fx-alignment: center ;
+}
+
+#buttonEnqueue {
+	-fx-background-color: linear-gradient(#79F1A4, #0E5CAD);
+	-fx-pref-height: 65;
+	-fx-pref-width: 184;
+	-fx-border-color: none;
+	-fx-font-size: 30;
+	-fx-text-fill: #354960;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+}
+
+#buttonEnqueue:hover {
+	-fx-background-color: #354960;
+	-fx-text-fill: linear-gradient(#79F1A4, #0E5CAD);
+}
+
+#buttonDequeue {
+	-fx-background-color: linear-gradient(#79F1A4, #0E5CAD);
+	-fx-pref-height: 65;
+	-fx-pref-width: 184;
+	-fx-border-color: none;
+	-fx-font-size: 30;
+	-fx-text-fill: #354960;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+}
+
+#buttonDequeue:hover {
+	-fx-background-color: #354960;
+	-fx-text-fill: linear-gradient(#79F1A4, #0E5CAD);
+}
+
+#buttonBackQueue {
+	-fx-background-color: linear-gradient(#79F1A4, #0E5CAD);
+	-fx-pref-height: 65;
+	-fx-pref-width: 184;
+	-fx-border-color: none;
+	-fx-font-size: 30;
+	-fx-text-fill: #354960;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+}
+
+#buttonBackQueue:hover {
+	-fx-background-color: #354960;
+	-fx-text-fill: linear-gradient(#79F1A4, #0E5CAD);
+}
+
+#no1 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 150;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#no2 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 150;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#no3 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 150;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#no4 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 150;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#no5 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 150;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#no6 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 150;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#no7 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 150;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#no8 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 150;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#no9 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 150;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#no10 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 150;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#no11 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 150;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#no12 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 43;
+	-fx-pref-width: 150;
+	-fx-border-color: #0E5CAD;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}

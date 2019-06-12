@@ -1,0 +1,336 @@
+#valueAdd {
+	-fx-background-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-pref-height: 45;
+	-fx-pref-width: 80;
+	-fx-border-color: none;
+	-fx-font-size: 20;	
+	-fx-text-fill: white;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+	-fx-alignment: center ;
+}
+
+#indexInsert {
+	-fx-background-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-pref-height: 45;
+	-fx-pref-width: 80;
+	-fx-border-color: none;
+	-fx-font-size: 20;	
+	-fx-text-fill: white;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+	-fx-alignment: center ;
+}
+
+#valueInsert {
+	-fx-background-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-pref-height: 45;
+	-fx-pref-width: 80;
+	-fx-border-color: none;
+	-fx-font-size: 20;	
+	-fx-text-fill: white;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+	-fx-alignment: center ;
+}
+
+#indexDelete {
+	-fx-background-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-pref-height: 45;
+	-fx-pref-width: 80;
+	-fx-border-color: none;
+	-fx-font-size: 20;	
+	-fx-text-fill: white;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+	-fx-alignment: center ;
+}
+
+#buttonAdd {
+	-fx-background-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-pref-height: 40;
+	-fx-pref-width: 210;
+	-fx-border-color: none;
+	-fx-font-size: 30;
+	-fx-text-fill: #354960;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+}
+
+#buttonAdd:hover {
+	-fx-background-color: #354960;
+	-fx-text-fill: linear-gradient(#A0FE65, #FA016D);
+}
+
+#buttonInsert {
+	-fx-background-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-pref-height: 40;
+	-fx-pref-width: 210;
+	-fx-border-color: none;
+	-fx-font-size: 30;
+	-fx-text-fill: #354960;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+}
+
+#buttonInsert:hover {
+	-fx-background-color: #354960;
+	-fx-text-fill: linear-gradient(#A0FE65, #FA016D);
+}
+
+#buttonDelete {
+	-fx-background-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-pref-height: 40;
+	-fx-pref-width: 210;
+	-fx-border-color: none;
+	-fx-font-size: 30;
+	-fx-text-fill: #354960;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+}
+
+#buttonDelete:hover {
+	-fx-background-color: #354960;
+	-fx-text-fill: linear-gradient(#A0FE65, #FA016D);
+}
+
+#buttonBackArray {
+	-fx-background-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-pref-height: 65;
+	-fx-pref-width: 184;
+	-fx-border-color: none;
+	-fx-font-size: 30;
+	-fx-text-fill: #354960;
+	-fx-font-weight: bold;	
+  	-fx-background-radius: 15;
+}
+
+#buttonBackArray:hover {
+	-fx-background-color: #354960;
+	-fx-text-fill: linear-gradient(#A0FE65, #FA016D);
+}
+
+#array1 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 63;
+	-fx-pref-width: 68;
+	-fx-border-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#array2 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 63;
+	-fx-pref-width: 68;
+	-fx-border-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#array3 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 63;
+	-fx-pref-width: 68;
+	-fx-border-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#array4 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 63;
+	-fx-pref-width: 68;
+	-fx-border-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#array5 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 63;
+	-fx-pref-width: 68;
+	-fx-border-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#array6 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 63;
+	-fx-pref-width: 68;
+	-fx-border-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#array7 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 63;
+	-fx-pref-width: 68;
+	-fx-border-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#array8 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 63;
+	-fx-pref-width: 68;
+	-fx-border-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;	
+}
+
+
+#array9 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 63;
+	-fx-pref-width: 68;
+	-fx-border-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;	
+}
+
+#array10 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 63;
+	-fx-pref-width: 68;
+	-fx-border-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#array11 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 63;
+	-fx-pref-width: 68;
+	-fx-border-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;	
+}
+
+#array12 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 63;
+	-fx-pref-width: 68;
+	-fx-border-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#array13 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 63;
+	-fx-pref-width: 68;
+	-fx-border-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#array14 {
+	-fx-text-fill: #354960;	
+	-fx-pref-height: 63;
+	-fx-pref-width: 68;
+	-fx-border-color: linear-gradient(#A0FE65, #FA016D);
+	-fx-font-size: 20;
+	-fx-font-weight: bold;	  	
+    -fx-border-width: 3;
+}
+
+#l1 {
+	-fx-font-size: 20;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;	 
+}
+
+#l2 {
+	-fx-font-size: 20;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;	
+}
+
+#l3 {
+	-fx-font-size: 20;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;
+}
+
+#l4 {
+	-fx-font-size: 20;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;	
+}
+
+#l5 {
+	-fx-font-size: 20;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;	
+}
+
+#l6 {
+	-fx-font-size: 20;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;
+}
+
+#l7 {
+	-fx-font-size: 20;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;	
+}
+
+#l8 {
+	-fx-font-size: 20;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;
+}
+
+#l9 {
+	-fx-font-size: 20;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;	
+}
+
+#l10 {
+	-fx-font-size: 20;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;
+}
+
+#l11 {
+	-fx-font-size: 20;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;	
+}
+
+#l12 {
+	-fx-font-size: 20;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;	
+}
+
+#l13 {
+	-fx-font-size: 20;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;	
+}
+
+#l1 {
+	-fx-font-size: 20;	
+	-fx-text-fill: #FA016D;	
+	-fx-font-weight: bold;	
+}
